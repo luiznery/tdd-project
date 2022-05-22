@@ -1,0 +1,3 @@
+No processo tdd tudo sempre volta para escrever um teste de unidade. 
+Todos os processos devem voltar para esse ponto, inclusive apos refatorações e escritas de novas partes.
+No tdd o ciclo, basicamente consiste em escrever testes, implementar codigos e refatorar.
